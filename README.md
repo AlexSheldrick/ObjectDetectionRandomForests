@@ -14,6 +14,6 @@ Next, we implement object classification using Binary Decision Trees and Random 
 
 We apply Random Forests for object detection, utilizing a dataset of diverse objects and backgrounds. We augment the dataset to enhance model training and achieve precise object detection.
 
-By the end of the course, participants will have hands-on experience and a deep understanding of object detection using Random Forests, ready for advanced studies and practical applications in computer vision.
+> By the end of the course, participants will have hands-on experience and a deep understanding of object detection using Random Forests, ready for advanced studies and practical applications in computer vision.
 
 ![TDCV-HW2](https://github.com/AlexSheldrick/ObjectDetectionRandomForests/assets/59337109/6c09e70f-5f42-4b45-943a-218a2d8b2caa)
