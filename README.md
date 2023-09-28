@@ -1,6 +1,6 @@
 # Obect Detection with OpenCV
 
-This capstone project is a key component of the "Tracking and Detection in Computer Vision" course at TU-Munich, led by Dr. Slobodan Ilic. It offers a focused exploration into practical and theoretical aspects of computer vision, emphasizing object detection using Random Forests.
+This capstone project is a key component of the "Tracking and Detection in Computer Vision" course at TU-Munich, taught by Dr. Slobodan Ilic. It offers a focused exploration into practical and theoretical aspects of computer vision, emphasizing object detection using Random Forests.
 
 > By the end of the course, participants will have hands-on experience and a deep understanding of object detection using Random Forests, ready for advanced studies and practical applications in computer vision.
 
