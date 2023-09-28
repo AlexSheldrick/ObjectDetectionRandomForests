@@ -1,0 +1,3 @@
+C:/Users/alexs/Documents/Programming/Homework/IN2210TDCV/Homework 2/Git_TDCV_L_2/cmake-build-debug/CMakeFiles/Git_TDCV_L_2.dir
+C:/Users/alexs/Documents/Programming/Homework/IN2210TDCV/Homework 2/Git_TDCV_L_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/alexs/Documents/Programming/Homework/IN2210TDCV/Homework 2/Git_TDCV_L_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
