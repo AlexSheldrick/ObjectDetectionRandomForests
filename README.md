@@ -18,4 +18,4 @@ This task especially highlighted the advantages of ensemble learning and the imp
 
 We apply Random Forests for object detection, utilizing a dataset of diverse objects and backgrounds. Because we are dealing with a small dataset, we take advantage of various image augmentations that should improve accuracy such as rotations, flips and color manipulation. The resulting training procedure achieves enhanced model training and more precise object detection.
 
-![TDCV-HW2](https://github.com/AlexSheldrick/ObjectDetectionRandomForests/assets/59337109/6c09e70f-5f42-4b45-943a-218a2d8b2caa)
+![ObjectDetectionAndClassification_](https://github.com/AlexSheldrick/ObjectDetectionRandomForests/assets/59337109/ca6f10aa-6696-46ef-8c10-639fa47c3947)
